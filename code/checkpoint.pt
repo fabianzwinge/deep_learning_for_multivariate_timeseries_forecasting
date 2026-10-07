@@ -1,0 +1,12 @@
+{
+  "experiment": "tft_final_model",
+  "aggregation": "mean",
+  "checkpoint_files": [
+    "checkpoints/final_s42.ckpt",
+    "checkpoints/final_s7.ckpt",
+    "checkpoints/final_s13.ckpt",
+    "checkpoints/final_s99.ckpt",
+    "checkpoints/final_s1234.ckpt"
+  ],
+  "seeds": [42, 7, 13, 99, 1234]
+}
